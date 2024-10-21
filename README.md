@@ -18,8 +18,8 @@ My name is Rick Rodness, and I am a passionate educator with a focus on computer
 Here are some highlights from my teaching projects:
 
 - **Project 1:** [Link to project](https://youtu.be/qkD96tEjZJY) - Teaching students how to build a house using Scratch.
-- **Nested Repeats:** [Link to project](https://youtu.be/C8rqvJeTxRM) - Teaching students how to use nested repeats using Scratch.
-- **Events** [Link to project](https://youtu.be/nVU80Ca4TyA) - Teaching students how to utilize events using Snap. 
+- **Nested Repeats:** [Link to Nested Repeats](https://youtu.be/C8rqvJeTxRM) - Teaching students how to use nested repeats using Scratch.
+- **Events:** [Link to Events](https://youtu.be/nVU80Ca4TyA) - Teaching students how to utilize events using Snap. 
 
 
 ## How to Navigate This Portfolio
