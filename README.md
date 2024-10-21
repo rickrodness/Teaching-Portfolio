@@ -17,7 +17,8 @@ My name is Rick Rodness, and I am a passionate educator with a focus on computer
 
 Here are some highlights from my teaching projects:
 
-- **Project 1:** [Link to project](https://youtu.be/qkD96tEjZJY) - Teaching students how to build a house using Scratch. 
+- **Project 1:** [Link to project](https://youtu.be/qkD96tEjZJY) - Teaching students how to build a house using Scratch.
+- **Project 2:** [Link to project](https://youtu.be/C8rqvJeTxRM) - Teaching students how to use nested repeats using Scratch. 
 
 
 ## How to Navigate This Portfolio
